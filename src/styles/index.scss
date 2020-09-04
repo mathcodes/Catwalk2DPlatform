@@ -1,0 +1,58 @@
+@import "colors.scss";
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  overflow: auto;
+}
+
+body {
+  background-color: $black;
+  display: flex;
+  height: 100%;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+html {
+  font-size: 12;
+  color: black;
+}
+
+.canvas-container {
+/*   height: 700px;
+  width: 700px; */
+  position: relative; 
+
+
+}
+
+canvas {
+  
+}
+
+.canvas-container canvas, .canvas-container div {
+  border-radius: 10px;
+}
+
+.modal-background {
+  display: flex; 
+  align-items: center;
+  position: absolute; 
+  z-index: 1; 
+  left: 0;
+  top: 0;
+  width: 100%; 
+  height: 100%; 
+  overflow: none; 
+  background-color: rgba(0,0,0,0.7); 
+}
+
+.game-title {
+  max-height: 100%;
+  align-self: flex-end;
+}
