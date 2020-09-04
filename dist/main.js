@@ -18221,7 +18221,7 @@ function () {
     _classCallCheck(this, MovingBackground);
 
     this.background = new Image();
-    this.background.src = "https://raw.githubusercontent.com/mathcodes/Catwalk2DPlatform/master/src/images/game_background_1.png";
+    this.background.src = "https://raw.githubusercontent.com/mathcodes/Catwalk2DPlatform/master/src/images/game_background_3stage.png";
     this.background.width = 1245;
     this.background.height = 700;
     this.vel = 100;
@@ -19137,7 +19137,7 @@ leftImg.src = "https://raw.githubusercontent.com/mathcodes/Catwalk2DPlatform/mas
 midImg.src = "https://raw.githubusercontent.com/mathcodes/Catwalk2DPlatform/master/src/images/drumPlatform.png";
 rightImg.src = "https://raw.githubusercontent.com/mathcodes/Catwalk2DPlatform/master/src/images/drumPlatform.png";
 verticalImg.src = "https://github.com/taeinha/js-climber/blob/master/src/images/vertical_tile.png?raw=true";
-redFlag.src = "https://raw.githubusercontent.com/mathcodes/Catwalk2DPlatform/master/src/images/16NoteFlag.png";
+redFlag.src = "https://raw.githubusercontent.com/mathcodes/Catwalk2DPlatform/master/src/images/hand.png";
 star.src = "https://github.com/taeinha/js-climber/blob/master/src/images/Star.png?raw=true";
 var IMAGES = {
   leftImg: leftImg,
