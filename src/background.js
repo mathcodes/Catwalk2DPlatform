@@ -1,9 +1,9 @@
 class MovingBackground {
   constructor() {
     this.background = new Image();
-    this.background.src = "https://raw.githubusercontent.com/mathcodes/Catwalk2DPlatform/master/src/images/game_background_1.png";
-    this.background.width = 1245;
-    this.background.height = 700;
+    this.background.src = "https://github.com/mathcodes/Catwalk2DPlatform/blob/master/src/images/game_background_2.png";
+    this.background.width = 1920;
+    this.background.height = 1080;
     this.vel = 100;
     this.dist = 0;
     this.elapsedTime = Date.now();

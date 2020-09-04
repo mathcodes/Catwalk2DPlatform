@@ -18294,7 +18294,7 @@ function () {
     this.move = this.move.bind(this);
     this.jumpTime = 0;
     this.keydown = false;
-    this.sprite = new _sprites__WEBPACK_IMPORTED_MODULE_0__["default"]("https://raw.githubusercontent.com/mathcodes/Catwalk2DPlatform/master/src/images/pick23.png", "https://raw.githubusercontent.com/mathcodes/Catwalk2DPlatform/master/src/images/pick24.png", 576, 24, 1, 24);
+    this.sprite = new _sprites__WEBPACK_IMPORTED_MODULE_0__["default"]("https://github.com/mathcodes/Catwalk2DPlatform/blob/master/src/images/DinoSpritesLeft.png", "https://github.com/mathcodes/Catwalk2DPlatform/blob/master/src/images/DinoSpritesLeftLeft.png", 576, 24, 1, 24);
   }
 
   _createClass(Climber, [{
@@ -18568,17 +18568,16 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var firebaseConfig = {
-  apiKey: "AIzaSyDi9lQlfe7ignarlq1_cSlFQoXV2swGpBc",
-  authDomain: "catwalk-5e2f6.firebaseapp.com",
-  databaseURL: "https://catwalk-5e2f6.firebaseio.com/",
-  projectId: "catwalk-5e2f6",
-  storageBucket: "gs://catwalk-5e2f6.appspot.com",
-  messagingSenderId: "470565111413",
-  appId: "1:969315329681:web:16a91d5c400d375d320130"
-};
 
-// Initialize Firebase
+var firebaseConfig = {
+  apiKey: "AIzaSyAViPloWdU6Ia70dPK_TUi0qVmwkHUSiYQ",
+  authDomain: "js-climber.firebaseapp.com",
+  databaseURL: "https://js-climber.firebaseio.com",
+  projectId: "js-climber",
+  storageBucket: "js-climber.appspot.com",
+  messagingSenderId: "470565111413",
+  appId: "1:470565111413:web:846136b3f9e006e4099a3c"
+}; // Initialize Firebase
 
 firebase_app__WEBPACK_IMPORTED_MODULE_0__["initializeApp"](firebaseConfig);
 var firebaseDB = firebase_app__WEBPACK_IMPORTED_MODULE_0__["database"]();
@@ -19138,7 +19137,7 @@ leftImg.src = "https://github.com/taeinha/js-climber/blob/master/src/images/plat
 midImg.src = "https://github.com/taeinha/js-climber/blob/master/src/images/platform_middle.png?raw=true";
 rightImg.src = "https://github.com/taeinha/js-climber/blob/master/src/images/platform_right.png?raw=true";
 verticalImg.src = "https://github.com/taeinha/js-climber/blob/master/src/images/vertical_tile.png?raw=true";
-redFlag.src = "https://raw.githubusercontent.com/mathcodes/Catwalk2DPlatform/master/src/images/tealYarnBall-02.png";
+redFlag.src = "https://github.com/taeinha/js-climber/blob/master/src/images/redFlag.png?raw=true";
 star.src = "https://github.com/taeinha/js-climber/blob/master/src/images/Star.png?raw=true";
 var IMAGES = {
   leftImg: leftImg,
