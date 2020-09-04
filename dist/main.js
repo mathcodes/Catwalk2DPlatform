@@ -19137,7 +19137,7 @@ leftImg.src = "https://raw.githubusercontent.com/mathcodes/Catwalk2DPlatform/mas
 midImg.src = "https://raw.githubusercontent.com/mathcodes/Catwalk2DPlatform/master/src/images/drumPlatform.png";
 rightImg.src = "https://raw.githubusercontent.com/mathcodes/Catwalk2DPlatform/master/src/images/drumPlatform.png";
 verticalImg.src = "https://github.com/taeinha/js-climber/blob/master/src/images/vertical_tile.png?raw=true";
-redFlag.src = "https://github.com/taeinha/js-climber/blob/master/src/images/Red_Flag.png?raw=true";
+redFlag.src = "https://raw.githubusercontent.com/mathcodes/Catwalk2DPlatform/master/src/images/16NoteFlag.png";
 star.src = "https://github.com/taeinha/js-climber/blob/master/src/images/Star.png?raw=true";
 var IMAGES = {
   leftImg: leftImg,
