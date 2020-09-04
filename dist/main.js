@@ -18294,7 +18294,7 @@ function () {
     this.move = this.move.bind(this);
     this.jumpTime = 0;
     this.keydown = false;
-    this.sprite = new _sprites__WEBPACK_IMPORTED_MODULE_0__["default"]("https://github.com/taeinha/js-climber/blob/master/src/images/DinoSprites.png?raw=true", "https://github.com/taeinha/js-climber/blob/master/src/images/DinoSpritesLeft.png?raw=true", 576, 24, 1, 24);
+    this.sprite = new _sprites__WEBPACK_IMPORTED_MODULE_0__["default"]("https://raw.githubusercontent.com/mathcodes/Catwalk2DPlatform/master/src/images/catpounceR.png", "https://raw.githubusercontent.com/mathcodes/Catwalk2DPlatform/master/src/images/catpounceL.png", 576, 24, 1, 24);
   }
 
   _createClass(Climber, [{
