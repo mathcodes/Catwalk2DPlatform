@@ -18312,9 +18312,9 @@ function () {
   }, {
     key: "drawPowerBar",
     value: function drawPowerBar(ctx) {
-      ctx.fillStyle = "white";
+      ctx.fillStyle = "black";
       ctx.fillRect(24, this.game.dim_y - 18, this.game.dim_x - 48, 12);
-      ctx.fillStyle = "#E54B4B";
+      ctx.fillStyle = "#9e3c9f";
       ctx.fillRect(24, this.game.dim_y - 18, (this.game.dim_x - 48) * this.jumpTime, 12);
     }
   }, {
