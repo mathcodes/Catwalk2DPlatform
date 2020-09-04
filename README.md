@@ -1,3 +1,3 @@
-# Catwalk: A 2D Platformer 
+# Pick 2 Hand: A 2D Platformer 
 
 more details coming...
