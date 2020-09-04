@@ -2,7 +2,6 @@ import * as firebase from "firebase/app";
 import "firebase/database";
 import * as Util from "./util";
 import { merge } from "lodash";
-const firebase = require("firebase");
 // Required for side-effects
 require("firebase/firestore");
 

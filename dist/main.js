@@ -18294,7 +18294,7 @@ function () {
     this.move = this.move.bind(this);
     this.jumpTime = 0;
     this.keydown = false;
-    this.sprite = new _sprites__WEBPACK_IMPORTED_MODULE_0__["default"]("https://github.com/mathcodes/Catwalk2DPlatform/blob/master/src/images/DinoSpritesLeft.png", "https://github.com/mathcodes/Catwalk2DPlatform/blob/master/src/images/DinoSpritesLeftLeft.png", 576, 24, 1, 24);
+    this.sprite = new _sprites__WEBPACK_IMPORTED_MODULE_0__["default"]("https://github.com/taeinha/js-climber/blob/master/src/images/DinoSprites.png?raw=true", "https://github.com/taeinha/js-climber/blob/master/src/images/DinoSpritesLeft.png?raw=true", 576, 24, 1, 24);
   }
 
   _createClass(Climber, [{
@@ -19137,7 +19137,7 @@ leftImg.src = "https://github.com/taeinha/js-climber/blob/master/src/images/plat
 midImg.src = "https://github.com/taeinha/js-climber/blob/master/src/images/platform_middle.png?raw=true";
 rightImg.src = "https://github.com/taeinha/js-climber/blob/master/src/images/platform_right.png?raw=true";
 verticalImg.src = "https://github.com/taeinha/js-climber/blob/master/src/images/vertical_tile.png?raw=true";
-redFlag.src = "https://github.com/taeinha/js-climber/blob/master/src/images/redFlag.png?raw=true";
+redFlag.src = "https://github.com/taeinha/js-climber/blob/master/src/images/Red_Flag.png?raw=true";
 star.src = "https://github.com/taeinha/js-climber/blob/master/src/images/Star.png?raw=true";
 var IMAGES = {
   leftImg: leftImg,
