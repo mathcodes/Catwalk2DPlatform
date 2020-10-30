@@ -8,6 +8,8 @@ Pick2Hand is a 2D platformer game with 3 levels. Simply jump up the screen onto 
 
 The goal was to create a new React-based Google Books Search app. On the frontend, this involved creating React components, working with helper/util functions, and utilizing React lifecycle methods to query and display books based on user searches. On the server side, it also involved using Node, Express and MongoDB so that users can save books to review or purchase later.
 
+<img src ="https://github.com/mathcodes/pick2hand/blob/master/Pick2Hand.jpg" alt="P2H" width="auto" height="200px" />
+
 # Table of Contents
   * [Installation](#Installation)
   * [Deployed](#Deployed)
