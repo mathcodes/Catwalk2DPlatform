@@ -25,7 +25,6 @@ The goal was to create a new React-based Google Books Search app. On the fronten
 ```
 install dependencies
 npm start
-
 ```
 
 ## Deployed
