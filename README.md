@@ -7,7 +7,6 @@ NEW TECHNOLOGY LEARNED: ![Project license badge](https://img.shields.io/badge/li
 Pick2Hand is a 2D platformer game with 3 levels. Simply jump up the screen onto the platforms (drums) to reach the owner's hand. This is my first 2D platformer made mainly with JS, styled with SASS, and using the abundance of knowledge at our disposal online. Feel free to download, fork, pull, fix, help, or just reach out and say hey! Top scores are stored in a Firebase DB, so make sure to store your top scores and share your skills. 
 
 
-
 The goal was to create a new React-based Google Books Search app. On the frontend, this involved creating React components, working with helper/util functions, and utilizing React lifecycle methods to query and display books based on user searches. On the server side, it also involved using Node, Express and MongoDB so that users can save books to review or purchase later.
 
 <img src ="https://github.com/mathcodes/pick2hand/blob/master/Pick2Hand.jpg" alt="P2H" width="auto" height="200px" />
